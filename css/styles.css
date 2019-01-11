@@ -1,11 +1,11 @@
 h1{
   font-family: 'Acme', sans-serif;
-
 }
 h2{
-
+font-family: 'Titillium Web', sans-serif;
 }
 h3{
+  font-size: 30px;
   text-align: center;
   font-family: 'EB Garamond', serif;
 }
@@ -13,51 +13,32 @@ h3{
   font-size: 20px;
   font-family: 'Charm', cursive;
 }
-
-
 .jumbotron{
-
+  /*text-align: center;*/
 }
-
-.title{
-
-}
-
-.name{
-
-}
-
 .image-mj{
   float: right;
+  margin: 25px;
 }
-
-.background-title{
+.panel-heading{
+  font-size: 17px;
   text-align: center;
+  font-family: 'Inconsolata', monospace;
 }
-.project{
-
+.background-title{
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
 }
-
-.link{
-
-}
-
-.language{
-
-}
-
 .interests .title{
   text-align: center;
 }
-
 .hobbies .title{
   text-align: center;
 }
-
 .skills .title{
   text-align: center;
 }
-
 .daily-activities-title{
   text-align: center;
 }
@@ -75,8 +56,6 @@ h3{
 .evening{
   color: #8a2be2;
 }
-
 #Panel_Image{
   align-items: center;
-
 }
