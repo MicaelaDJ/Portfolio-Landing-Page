@@ -97,3 +97,12 @@ h3{
   font-size: 20px;
   font-family: 'Acme', sans-serif;
 }
+.daily-activities-title{
+  font-size: 17px;
+  font-family: 'Comfortaa', cursive;
+}
+
+.skills .daily li{
+  font-size: 13px;
+  font-family: 'Comfortaa', cursive;
+}
