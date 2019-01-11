@@ -37,3 +37,21 @@
 .skills .title{
   text-align: center;
 }
+
+.daily-activities-title{
+  text-align: center;
+}
+.AM{
+  font-size: 10px;
+  color: #ff6a6a;
+}
+.morning{
+  color: #ff6a6a;
+}
+.PM{
+  font-size: 10px;
+  color: #8a2be2;
+}
+.evening{
+  color: #8a2be2;
+}
