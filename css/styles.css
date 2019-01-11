@@ -9,6 +9,19 @@ h3{
   text-align: center;
   font-family: 'EB Garamond', serif;
 }
+.link{
+  text-align: center;
+}
+.language{
+  text-align: center;
+}
+.brief-description{
+  text-align: center;
+  font-size: 12px;
+  margin: 20px;
+  padding: 10px;
+  background-color: #90f2e8;
+}
 .about{
   font-size: 20px;
   font-family: 'Charm', cursive;
@@ -71,4 +84,16 @@ h3{
 }
 .panel-info > .panel-heading{
   background-color: #d4bbdd;
+}
+.interests li{
+  font-size: 20px;
+  font-family: 'Acme', sans-serif;
+}
+.hobbies li{
+  font-size: 20px;
+  font-family: 'Acme', sans-serif;
+}
+.skills li{
+  font-size: 20px;
+  font-family: 'Acme', sans-serif;
 }
