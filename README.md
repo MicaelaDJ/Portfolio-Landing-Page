@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A simple portfolio webpage, Created 1/11/19, Updated 1/16/19_
 
 #### By _**Micaela Jawor**_
 
@@ -10,9 +10,15 @@ _This is a simple portfolio webpage created using HTML, CSS, Bootstrap, and Atom
 
 ## Setup/Installation Requirements
 
-* _Make sure you have an internet connection_
-* _Open the link provided below_
-* _https://micaeladj.github.io/Portfolio-Landing-Page/_
+* _Please visit Portfolio Landing Page repository <a href="https://github.com/MicaelaDJ/Portfolio-Landing-Page">at this link</a>._
+* _Clone repository or download to desktop_
+* _Open files using IDE (Atom or Visual Code Studio) to view code._
+* _Open index.html using your preferred web browser to preview webpage._
+
+
+## GitHub Pages
+
+_To visit the live webpage, hosted by ghPages, <a href="https://micaeladj.github.io/Portfolio-Landing-Page/">select this link</a> or visit micaeladj.github.io/Portfolio-Landing-Page_
 
 ## Known Bugs
 
@@ -25,6 +31,7 @@ _If you run into any issues or have questions, ideas or concerns.  Please email 
 ## Technologies Used
 
 * _Atom_
+* _HTML_
 * _Bootstrap_
 * _Favicomatic_
 

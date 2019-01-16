@@ -18,6 +18,7 @@ h3{
 .brief-description{
   text-align: center;
   font-size: 12px;
+  border: 1px solid #d4bbdd;
   margin: 20px;
   padding: 10px;
   background-color: #90f2e8;
@@ -29,9 +30,6 @@ h3{
 .why{
   font-size: 20px;
   font-family: 'Charm', cursive;
-}
-.jumbotron{
-  /*text-align: center;*/
 }
 .image-mj{
   float: right;
@@ -75,7 +73,7 @@ h3{
 .evening{
   color: #8a2be2;
 }
-#Panel_Image{
+.Panel_Image{
   align-items: center;
 }
 
